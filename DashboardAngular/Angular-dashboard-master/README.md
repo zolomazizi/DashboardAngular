@@ -33,3 +33,19 @@ To get more help on the Angular CLI use ng help or go check out the [Angular CLI
 1. Clone This Repo with the following link git clone https://github.com/ismailraqi/E-commerce-Angular-Front-End.git
 2. inside project open new terminale and run the following line  npm i 
 3. It's finish !
+ Liste des Journalistes page
+
+![API page](https://github.com/ayoub-bani/Angular-dashboard/blob/master/screen/iMac-psd-1.png)
+
+> Chef de Rédaction page
+
+![API page](https://github.com/ayoub-bani/Angular-dashboard/blob/master/screen/Chef-de-Redaction.PNG)
+
+> API page
+
+![API page](https://github.com/ayoub-bani/Angular-dashboard/blob/master/screen/API.PNG)
+
+
+> Publicité page
+
+![API page](https://github.com/ayoub-bani/Angular-dashboard/blob/master/screen/Publicite.PNG)
