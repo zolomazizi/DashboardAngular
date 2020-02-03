@@ -35,17 +35,21 @@ To get more help on the Angular CLI use ng help or go check out the [Angular CLI
 3. It's finish !
  Liste des Journalistes page
 
-![API page](https://github.com/ayoub-bani/Angular-dashboard/blob/master/screen/iMac-psd-1.png)
+![API page](https://github.com/zolomazizi/DashboardAngular/blob/master/DashboardAngular/Angular-dashboard-master/journaliste.PNG)
 
 > Chef de Rédaction page
 
-![API page](https://github.com/ayoub-bani/Angular-dashboard/blob/master/screen/Chef-de-Redaction.PNG)
+![API page](https://github.com/zolomazizi/DashboardAngular/blob/master/DashboardAngular/Angular-dashboard-master/redactionchef.PNG)
 
 > API page
 
-![API page](https://github.com/ayoub-bani/Angular-dashboard/blob/master/screen/API.PNG)
+![API page](https://github.com/zolomazizi/DashboardAngular/blob/master/DashboardAngular/Angular-dashboard-master/api.PNG)
 
 
 > Publicité page
 
-![API page](https://github.com/ayoub-bani/Angular-dashboard/blob/master/screen/Publicite.PNG)
+![API page](https://github.com/zolomazizi/DashboardAngular/blob/master/DashboardAngular/Angular-dashboard-master/pub.PNG)
+> login page
+![API page](https://github.com/zolomazizi/DashboardAngular/blob/master/DashboardAngular/Angular-dashboard-master/login.PNG)
+> register page 
+![API page](https://github.com/zolomazizi/DashboardAngular/blob/master/DashboardAngular/Angular-dashboard-master/register.PNG)
