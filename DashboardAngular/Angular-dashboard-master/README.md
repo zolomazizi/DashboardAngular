@@ -30,7 +30,7 @@ To get more help on the Angular CLI use ng help or go check out the [Angular CLI
 
 ## Installation
 
-1. Clone This Repo with the following link git clone https://github.com/ismailraqi/E-commerce-Angular-Front-End.git
+1. Clone This Repo with the following link git clonehttps://github.com/zolomazizi/DashboardAngular.git
 2. inside project open new terminale and run the following line  npm i 
 3. It's finish !
  Liste des Journalistes page
